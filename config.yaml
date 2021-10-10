@@ -11,4 +11,4 @@ params:
 permalinks:
   posts: /:year/:month/:title/
 title: My Hugo Site
-theme: "PaperMod"
+theme: "hugo-PaperMod"
