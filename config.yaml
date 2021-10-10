@@ -1,13 +1,10 @@
 baseURL: https://yoursite.example.com/
 footnoteReturnLinkContents: ↩
 params:
-  AuthorName: Jon Doe
-  GitHubUser: spf13
-  ListOfFoo:
-  - foo1
-  - foo2
+  AuthorName: Nexan
+  GitHubUser: xanenightwing
   SidebarRecentLimit: 5
-  Subtitle: Hugo is Absurdly Fast!
+  Subtitle: Envoys of Dissonance
 permalinks:
   posts: /:year/:month/:title/
 title: Envoys of Dissonance
