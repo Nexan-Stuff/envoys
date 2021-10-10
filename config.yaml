@@ -1,0 +1,13 @@
+baseURL: https://yoursite.example.com/
+footnoteReturnLinkContents: ↩
+params:
+  AuthorName: Jon Doe
+  GitHubUser: spf13
+  ListOfFoo:
+  - foo1
+  - foo2
+  SidebarRecentLimit: 5
+  Subtitle: Hugo is Absurdly Fast!
+permalinks:
+  posts: /:year/:month/:title/
+title: My Hugo Site
