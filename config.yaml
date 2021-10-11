@@ -23,8 +23,39 @@ params:
       - name: News
         url: "/news"
       - name: About
-        url: "/about"
+        url: "/page/about/"
   
   socialIcons:
     - name: "Discord"
       url: "https://discord.gg/y6epv9R3"
+
+menu:
+  main:
+    - identifier: pages
+      name: Pages
+      url: /page/
+      weight: 10
+    - identifier: bfn #blank for now
+      name: Blank
+      url: https://nexxy.co
+    #- identifier: posts
+    #  name: Posts
+    #  url: /posts/
+
+# Front Matter config
+
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date
