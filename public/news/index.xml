@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Envoys of Dissonance</title>
-    <link>https://yoursite.example.com/</link>
-    <description>Recent content on Envoys of Dissonance</description>
+    <title>News on Envoys of Dissonance</title>
+    <link>https://yoursite.example.com/news/</link>
+    <description>Recent content in News on Envoys of Dissonance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Oct 2021 00:48:15 -0500</lastBuildDate><atom:link href="https://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 00:48:15 -0500</lastBuildDate><atom:link href="https://yoursite.example.com/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Musicbot</title>
       <link>https://yoursite.example.com/news/musicbot/</link>
@@ -34,16 +34,6 @@ Friendly reminder, if you use the new 🎵 Ironworks Orchestrion 🎵, please re
       <description>This is about Dispatches.
 They used to be weekly, now they&amp;rsquo;re whenever we need to tell people about things.
 New Cool Posts </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://yoursite.example.com/2021/10/my-first-post/</link>
-      <pubDate>Sat, 09 Oct 2021 23:41:20 -0500</pubDate>
-      
-      <guid>https://yoursite.example.com/2021/10/my-first-post/</guid>
-      <description>This is my first post here
-it&amp;rsquo;s gonna be boring, sorry.</description>
     </item>
     
   </channel>
