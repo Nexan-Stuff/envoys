@@ -36,6 +36,7 @@ Our ranks go as such:
 * Nexan, frequently referred to simply as "Nex," is the maintainer of this site, and an overall huge nerd about technical things in the real world.
 
 ### Zaldanas Zanovas - AKA Zando
+<img src="zald.png" height="100px">
 * The resident White Mage of the Free Company, Zaldanas is one of the few Male Au'Ra inhabiting our Free Company.
 * Zando, which is short for Zandodak, is a huuuuge nugget that happens to share a braincell with Nex, and it causes all sorts of chaos.
 
