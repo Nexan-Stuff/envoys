@@ -25,13 +25,15 @@ params:
       - name: About
         url: "/page/about/"
       - name: Pages
-        url: "/posts/"
+        url: "/page/"
+      - name: Officers
+        url: "/page/officers/"
   
   socialIcons:
     - name: "Discord"
       url: "https://discord.gg/y6epv9R3"
 
-menu:
+#menu:
   main:
     - identifier: pages
       name: Pages

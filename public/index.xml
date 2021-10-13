@@ -5,7 +5,17 @@
     <link>https://yoursite.example.com/</link>
     <description>Recent content on Envoys of Dissonance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Oct 2021 00:48:15 -0500</lastBuildDate><atom:link href="https://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 23:10:09 -0500</lastBuildDate><atom:link href="https://yoursite.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Officers</title>
+      <link>https://yoursite.example.com/page/officers/</link>
+      <pubDate>Tue, 12 Oct 2021 23:10:09 -0500</pubDate>
+      
+      <guid>https://yoursite.example.com/page/officers/</guid>
+      <description>Rank Information Our ranks go as such:
+ Dragon - The Leader of the Free Company, and highest-ranking officer Soldier - Second-rank members; These members have shown to be incredibly helpful in some way, be it crafting, gathering, or instructing new players. Sorcerer - Third-rank members; A group primarily made of some of the oldest and most trusted members of the Company Envoy - Currently the lowest rank; nothing special about these members, except that they make up the bulk of our Company!</description>
+    </item>
+    
     <item>
       <title>Musicbot</title>
       <link>https://yoursite.example.com/news/musicbot/</link>
@@ -34,6 +44,16 @@ Friendly reminder, if you use the new 🎵 Ironworks Orchestrion 🎵, please re
       <description>This is about Dispatches.
 They used to be weekly, now they&amp;rsquo;re whenever we need to tell people about things.
 New Cool Posts </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yoursite.example.com/page/about/</link>
+      <pubDate>Sun, 10 Oct 2021 00:29:13 -0500</pubDate>
+      
+      <guid>https://yoursite.example.com/page/about/</guid>
+      <description>About - General We are the Envoys of Dissonance, a Free Company from Gilgamesh in the Aether Datacenter. We are allied with the Maelstrom, and our tag is &amp;laquo;ENVOY&amp;raquo;. Founded on 7/22/2020, we
+Most of us are on almost every evening, and as such we do not have a regular &amp;ldquo;meeting&amp;rdquo; time. Our Company Leader, Billy (A.K.A. Kelvius Argent), has been trying to get a group together for raiding for several months now.</description>
     </item>
     
     <item>
