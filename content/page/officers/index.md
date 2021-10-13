@@ -31,7 +31,7 @@ Our ranks go as such:
 
 ## Sorcerer
 ### Mahosurn Aesotth - AKA Nexan
-[maho.png]
+![Mahosurn](maho.png)
 * Mahosurn, commonly referred to simply as "Maho," is a tomboyish Red Mage, Dark Knight, and Monk.
 * Nexan, frequently referred to simply as "Nex," is the maintainer of this site, and an overall huge nerd about technical things in the real world.
 
