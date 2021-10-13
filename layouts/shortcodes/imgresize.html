@@ -1,4 +1,4 @@
-{{ $srcset := "360|(max-width: 37.5em) 360px,720|(min-width: 75em) 720px,1920|(min-width: 112.5em) 1200px" }}
+{{ $srcset := "360|(max-width: 37.5em) 360px,720|(min-width: 75em) 100px,1920|(min-width: 112.5em) 1200px" }}
 {{ $srcset := split $srcset "," }}
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s" (.Get "src")) }}
 <!-- image -->
