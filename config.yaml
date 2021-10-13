@@ -15,7 +15,7 @@ params:
     enabled: true
     title: "Envoys of Dissonance"
     subtitle: "Located on Aether DC, Gilgamesh"
-    imageUrl: "<image Link>"
+    imageUrl: "logo.png"
     imageTitle: "Envoys of Dissonance Logo"
     imageWidth: 120
     imageHeight: 120
@@ -24,6 +24,8 @@ params:
         url: "/news"
       - name: About
         url: "/page/about/"
+      - name: Pages
+        url: "/posts/"
   
   socialIcons:
     - name: "Discord"
@@ -35,9 +37,9 @@ menu:
       name: Pages
       url: /page/
       weight: 10
-    - identifier: bfn #blank for now
-      name: Blank
-      url: https://nexxy.co
+    #- identifier: bfn #blank for now
+    #  name: Blank
+    #  url: https://nexxy.co
     #- identifier: posts
     #  name: Posts
     #  url: /posts/
